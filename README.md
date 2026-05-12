@@ -21,8 +21,13 @@ Este repositório contém aulas e atividades desenvolvidas durante a disciplina 
 
 ## 🚀 Tecnologias Utilizadas
 
-* SQL  
-* SQL Server Management Studio (SSMS)  
+<p align="left">
+
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=database&logoColor=white" height="35" />
+
+  <img src="https://img.shields.io/badge/SQL_Server_Management_Studio-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" height="35" />
+
+</p>
 
 ## 📌 Notas
 
