@@ -24,3 +24,19 @@ CREATE TABLE cidades(
 SELECT * FROM cidades;
 
 -- 3)
+ALTER TABLE produtos
+	ADD codigoBarras VARCHAR(13);
+    
+SELECT * FROM produtos;
+
+-- 4)
+INSERT INTO produtos
+	VALUES (200, 'Pincel para quadro branco', 13, 'ABS-1430');
+
+SELECT * FROM produtos;
+
+-- 5)
+UPDATE produtos SET preco = 44
+	WHERE codigo = 100;
+    
+SELECT * FROM produtos;
